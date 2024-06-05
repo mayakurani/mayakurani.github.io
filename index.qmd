@@ -1,3 +1,16 @@
 ---
-title: "mayakurani.github.io"
+title: "Maya Kurani"
+image: profile.png
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mayakurani/
+    - text: GitHub
+      href: https://github.com/mayakurani
+    - text: Email
+      href: mailto:mayakurani@gmail.com 
 ---

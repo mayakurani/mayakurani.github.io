@@ -1,10 +1,10 @@
 project:
   type: website
-  output-dir: docsquart
+  output-dir: docs
 
 website:
-  title: "mayakurani.github.io"
-  navbar:
+ navbar:
+  title: "Maya Kurani" 
     left:
       - href: index.qmd
         text: Home
@@ -15,6 +15,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
