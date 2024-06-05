@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docsquart
 
 website:
   title: "mayakurani.github.io"

@@ -1,18 +1,3 @@
 ---
 title: "mayakurani.github.io"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-install.packages("usethis") 
-usethis::use_git() 
-# Set your Git username
-system("git config --global user.name 'Maya Kurani'")
-
-# Set your Git email
-system("git config --global user.email 'mayakurani@gmail.com'")
-usethis::use_github() 
-```
