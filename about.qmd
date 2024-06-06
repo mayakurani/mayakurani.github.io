@@ -1,9 +1,15 @@
 ---
 title: "About"
 ---
+### Here is a little bit about me:)
 
-About this site
+My name is Maya Kurani, and I am a fourth-year Economics and Environmental Studies major at UCSB! Driven by a deep passion for the environment, I have found my purpose studying environmental justice and sustainability management.
+
+Throughout the years, I have explored the fundamental connection between sustainability and health equity— clean air, water, and good waste management practices are essential to a healthy community. Due to previous experiences, I have learned that I want to go into environmental consulting in order to change business practices and implement lasting systemic change.
+
+I also love  capturing the beauty of nature through photography, and am committed to reducing waste and toxins to protect our precious environment. Next year, I am going to the Bren School to get my Masters in Environmental Management, and I am so excited!
+---
 
 ```{r}
-1 + 1
+
 ```

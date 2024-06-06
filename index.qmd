@@ -14,3 +14,15 @@ about:
     - text: Email
       href: mailto:mayakurani@gmail.com 
 ---
+
+### Hello! 
+Thanks for coming across my page! My name is Maya Kurani, and I’m glad you’re here!
+
+### Education
+
+University of California, Santa Barbara | Santa Barbara, CA 
+ | B.A in Economics and Environmental Studies | Sept 2020 - June 2024
+
+UCSB Bren School | Santa Barbara, CA
+ | M.A in Environmental Science and Management | Sept 2024 - June 2026
+---

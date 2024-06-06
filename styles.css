@@ -1,1 +1,13 @@
-/* css styles */
+/* scss: defaults */
+
+// Base document colors
+$navbar-bg: $light-blue; // $navbar
+$body-bg: $cream; // page background
+
+/* Custom link color */
+a {
+  color: #007BFF;
+}
+
+
+

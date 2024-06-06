@@ -1,0 +1,15 @@
+---
+title: "Pictures of Nature"
+---
+Here are some of my favorite photos of nature! Some consist of when I was studying abroad and others are from here in California or in Maui. Enjoy:)
+
+![](photos/swiss.png){width=40%}
+
+![](photos/nice.png){width=40%}
+
+![](photos/cave.png){width=40%}
+
+![](photos/florida.png){width=40%}
+
+![](photos/water.png){width=40%}
+

@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+// Import Fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+// Colors
+$dark-green: #858E79;
+$light-blue: #B0E0E6;
+$cream: #FDFBF7;
+$darkgray: #333333;
+$purple: #9158A2;
+$orange: #ad7237;
+
+// Base document colors
+$navbar-bg: $cream; // navbar
+$navbar-fg: $darkgray; // navbar foreground elements
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+$body-bg: $light-blue; // page background 
+$body-color: $darkgray; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $purple; // hyperlinks 
+
+// Font
+body {
+  font-family: 'Arial', sans-serif; }

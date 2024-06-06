@@ -4,16 +4,18 @@ project:
 
 website:
  navbar:
-  title: "Maya Kurani" 
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Maya Kurani"
+  left:
+    - href: index.qmd
+      text: Home
+    - about.qmd
+    - projects.qmd
+    - photos.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: styles.scss
+    mainfont: Roboto
     toc: true
     page-layout: full
 

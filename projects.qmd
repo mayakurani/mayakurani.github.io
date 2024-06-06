@@ -1,0 +1,16 @@
+---
+title: "Favorite Projects"
+---
+Here are a few papers from my undergrad that I am proud of!
+
+Link to my final paper in ENV S 116: Sustainable Communities– I decided to write my paper on how we can manage waste in the healthcare system and reduce emissions substantially.
+
+[Paper on Transforming the Healthcare System and Reducing Waste](pdf/trustingovernment.pdf)
+
+Link to my final paper in ENV S 149: Food Ag Environment– I wrote about how food insecurity affects individuals and families across urban and rural areas, with its more detrimental effects on significantly vulnerable populations.
+
+[Paper on Solutions for Improving Food Insecurity in Mississippi](pdf/originsandsolutionsforfoodsecurityinmississippi.pdf)
+
+Link to my paper that I wrote as an intern at a startup company called Tynergy– I explained how a new magnetic renewable energy device could potentially enable the US to lead the clean technology innovation and manufacturing industry.
+
+[White Paper on Magnetic Renewable Energy Device](pdf/white paper.pdf)

@@ -1,9 +1,37 @@
 [
   {
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "Pictures of Nature",
+    "section": "",
+    "text": "Here are some of my favorite photos of nature! Some consist of when I was studying abroad and others are from here in California or in Maui. Enjoy:)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maya Kurani",
+    "section": "",
+    "text": "Hello!\nThanks for coming across my page! My name is Maya Kurani, and I’m glad you’re here!\n\n\nEducation\nUniversity of California, Santa Barbara | Santa Barbara, CA | B.A in Economics and Environmental Studies | Sept 2020 - June 2024\nUCSB Bren School | Santa Barbara, CA | M.A in Environmental Science and Management | Sept 2024 - June 2026"
+  },
+  {
+    "objectID": "styles.scss.html",
+    "href": "styles.scss.html",
+    "title": "",
+    "section": "",
+    "text": "/– scss:defaults –/ // Colors \\(dark-green: #858E79;\\)light-green: #D1D9CE; \\(cream: #FDFBF7;\\)gray: #64605f; \\(purple: #9158A2;\\)orange: #ad7237;\n/ Base document colors $navbar-bg: \\(cream; // navbar\\)navbar-fg: \\(dark-green; // navbar foreground elements\\)navbar-hl: \\(purple; // highlight color when hovering over navbar links\\)body-bg: \\(light-green; // page background\\)body-color: \\(gray; // page text\\)footer-bg: \\(cream; // footer\\)link-color: $purple; // hyperlinks\n// Inline code $code-bg: \\(cream; // inline code background color\\)code-color: $purple; // inline code text color"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Favorite Projects",
+    "section": "",
+    "text": "Here are a few papers from my undergrad that I am proud of!\nLink to my final paper in ENV S 116: Sustainable Communities– I decided to write my paper on how we can manage waste in the healthcare system and reduce emissions substantially.\nPaper on Transforming the Healthcare System and Reducing Waste\nLink to my final paper in ENV S 149: Food Ag Environment– I wrote about how food insecurity affects individuals and families across urban and rural areas, with its more detrimental effects on significantly vulnerable populations.\nPaper on Solutions for Improving Food Insecurity in Mississippi\nLink to my paper that I wrote as an intern at a startup company called Tynergy– I explained how a new magnetic renewable energy device could potentially enable the US to lead the clean technology innovation and manufacturing industry.\nWhite Paper on Magnetic Renewable Energy Device"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Here is a little bit about me:)\nMy name is Maya Kurani, and I am a fourth-year Economics and Environmental Studies major at UCSB! Driven by a deep passion for the environment, I have found my purpose studying environmental justice and sustainability management.\nThroughout the years, I have explored the fundamental connection between sustainability and health equity— clean air, water, and good waste management practices are essential to a healthy community. Due to previous experiences, I have learned that I want to go into environmental consulting in order to change business practices and implement lasting systemic change.\nI also love capturing the beauty of nature through photography, and am committed to reducing waste and toxins to protect our precious environment. Next year, I am going to the Bren School to get my Masters in Environmental Management, and I am so excited!"
   }
 ]
